@@ -11,9 +11,9 @@ note.
 
 To access detailed release note by component, use the following sections:
 
-  - [Core](centreon-core.html)
-  - [Commercial extensions](centreon-commercial-extensions.html)
-  - [Open Source extensions](centreon-os-extensions.html)
+  - Core
+  - Commercial extensions
+  - Open Source extensions
 
 ## New Events view (beta)
 
@@ -40,8 +40,8 @@ brings the following capabilities:
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/FVjuIbBDuYU" frameborder="0" allowfullscreen></iframe>
 
-To know more about this feature, have a look to [the
-documentation](../alerts-notifications/events-view.html)
+To know more about this feature, have a look to the
+documentation
 
 ## Centreon on Mobility
 
@@ -57,8 +57,8 @@ able to perform the most common actions on resources:
     <source src="../assets/mobile/mobile-demo.mp4" type="video/mp4"/>
 </video>
 
-Find more about this mobile application in the [dedicated
-section](../mobile/introduction.html)
+Find more about this mobile application in the dedicated
+section
 
 ## A more flexible hosts discovery
 
@@ -74,8 +74,8 @@ We've also added new functionalities:
   - Possibility to discover resources from any monitoring server,
   - New mapping system to link results with Centreon configuration.
 
-Give a look at the [dedicated
-section](../monitoring/discovery/hosts-discovery.html) to know how to launch your
+Give a look at the dedicated
+section to know how to launch your
 first discovery job\!
 
 ## A better service mapping
@@ -162,8 +162,8 @@ Gorgone comes with a legacy mode to handle SSH communication with monitoring
 servers, but the new ZMQ communication is recommended to fully benefit from
 all the new functionalities.
 
-See [the communication
-section](../monitoring/monitoring-servers/communications.html) to know more.
+See the communication
+section to know more.
 
 #### Engine: future ready, Broker: multi-thread compatible
 
@@ -181,5 +181,5 @@ communicate with them in future versions.
 Centreon opens its High Availability solution to everyone by sharing its
 source code and installation procedures.
 
-Give it a try by following the [dedicated
-documentation](../administration/centreon-ha/architectures.html).
+Give it a try by following the dedicated
+documentation.

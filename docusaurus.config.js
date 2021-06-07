@@ -136,7 +136,7 @@ const baseUrl = process.env.BASE_URL || '/';
       trackingID: 'UA-141789564-1',
     },
     algolia: {
-      apiKey: '47ecd3b21be71c5822571b9f59e52544',
+      apiKey: '8W2CFBG50X',
       indexName: 'dev_centreon_kduret',
       contextualSearch: true,
     },
