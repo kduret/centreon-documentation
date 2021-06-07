@@ -2,7 +2,6 @@
 id: introduction
 title: Introduction
 description: Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.
-slug: /
 ---
 
 ⚡️ current en Docusaurus will help you ship a **beautiful documentation site in no time**.
@@ -11,7 +10,7 @@ slug: /
 
 💥 Ready for more? Use **advanced features** like versioning, i18n, search and theme customizations.
 
-💅 Check the **[best Docusaurus sites](/showcase?tags=favorite)** for inspiration and read some **[testimonials](https://twitter.com/sebastienlorber/timelines/1392048416872706049)**.
+💅 Check the **best Docusaurus sites** for inspiration and read some **[testimonials](https://twitter.com/sebastienlorber/timelines/1392048416872706049)**.
 
 🧐 Docusaurus is a **static-site generator**. It builds a **single-page application** with a fast client-side navigation, leveraging the full power of **React** to make your site interactive. It provides out-of-the-box **documentation features**, but can be used to create **any kind of site** (personal website, product, blog, marketing landing pages, etc).
 
@@ -52,7 +51,7 @@ Docusaurus v2 is **beta** but already quite stable and widely used.
 
 We highly encourage you to **use Docusaurus v2 over Docusaurus v1**, as Docusaurus v1 will be deprecated soon.
 
-A [lot of users](/showcase) are already using Docusaurus v2 ([trends](https://www.npmtrends.com/docusaurus-vs-@docusaurus/core)).
+A lot of users are already using Docusaurus v2 ([trends](https://www.npmtrends.com/docusaurus-vs-@docusaurus/core)).
 
 **Use Docusaurus v2 if:**
 
@@ -176,11 +175,11 @@ In comparison with statically generated HTML and interactivity added using `<scr
 
 - [GitHub](https://github.com/facebook/docusaurus)
 - [Twitter](https://twitter.com/docusaurus)
-- [Blog](/blog)
+- Blog
 - [Discord](https://discord.gg/Je6Ash6)
 
 ## Something missing? {#something-missing}
 
 If you find issues with the documentation or have suggestions on how to improve the documentation or the project in general, please [file an issue](https://github.com/facebook/docusaurus) for us, or send a tweet mentioning the [@docusaurus](https://twitter.com/docusaurus) Twitter account.
 
-For new feature requests, you can create a post on our [Canny board](/feedback), which is a handy tool for roadmapping and allows for sorting by upvotes, which gives the core team a better indicator of what features are in high demand, as compared to GitHub issues which are harder to triage. Refrain from making a Pull Request for new features (especially large ones) as someone might already be working on it or will be part of our roadmap. Talk to us first!
+For new feature requests, you can create a post on our Canny board, which is a handy tool for roadmapping and allows for sorting by upvotes, which gives the core team a better indicator of what features are in high demand, as compared to GitHub issues which are harder to triage. Refrain from making a Pull Request for new features (especially large ones) as someone might already be working on it or will be part of our roadmap. Talk to us first!

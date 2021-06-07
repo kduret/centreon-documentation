@@ -33,11 +33,15 @@ const baseUrl = process.env.BASE_URL || '/';
 (module.exports = {
   title: 'Centreon',
   tagline: 'Documentation',
-  organizationName: 'centreon',
-  projectName: 'centreon',
-  baseUrl,
+  //organizationName: 'centreon',
+  //projectName: 'centreon',
+  //baseUrl,
   baseUrlIssueBanner: true,
-  url: 'https://centreon.com',
+  //url: 'https://centreon.com',
+  url: 'https://kduret.github.io', // Your website URL
+  baseUrl: '/',
+  projectName: 'kduret.github.io',
+  organizationName: 'kduret',
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
@@ -133,7 +137,7 @@ const baseUrl = process.env.BASE_URL || '/';
     },
     algolia: {
       apiKey: '47ecd3b21be71c5822571b9f59e52544',
-      indexName: 'docusaurus-2',
+      indexName: 'dev_centreon_kduret',
       contextualSearch: true,
     },
     navbar: {

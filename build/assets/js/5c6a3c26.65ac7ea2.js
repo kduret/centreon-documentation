@@ -1,0 +1,1 @@
+(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[636],{32462:function(e){"use strict";e.exports=JSON.parse('{"type":"url","content":"https://raw.githubusercontent.com/centreon/centreon/master/doc/API/centreon-api-v2.1.yaml"}')}}]);

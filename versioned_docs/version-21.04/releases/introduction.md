@@ -2,7 +2,6 @@
 id: releases-introduction
 title: Centreon Platform 21.04
 description: Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.
-slug: /
 ---
 
 Release date: April 22, 2021
