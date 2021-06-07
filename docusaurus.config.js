@@ -132,11 +132,14 @@ const baseUrl = process.env.BASE_URL || '/';
     },
     image: 'img/docusaurus-soc.png',
     // metadatas: [{name: 'twitter:card', content: 'summary'}],
+    /*
     gtag: {
       trackingID: 'UA-141789564-1',
     },
+    */
     algolia: {
       apiKey: 'f492427ccdce3bbda40f4b3900176ab2',
+      //appId: '8W2CFBG50X',
       indexName: 'dev_centreon_kduret',
       contextualSearch: true,
     },
@@ -147,7 +150,7 @@ const baseUrl = process.env.BASE_URL || '/';
         alt: 'Centreon Logo',
         src: 'https://docs.centreon.com/current/en/img/logo-centreon.png',
         srcDark: 'https://docs.centreon.com/current/en/img/logo-centreon.png',
-        href: 'https://centreon.com/',
+        href: 'https://docs.centreon.com/',
       },
       items: [
         {
@@ -181,6 +184,7 @@ const baseUrl = process.env.BASE_URL || '/';
     },
     footer: {
       style: 'dark',
+      /*
       links: [
         {
           title: 'Learn',
@@ -192,12 +196,15 @@ const baseUrl = process.env.BASE_URL || '/';
           ],
         },
       ],
+      */
+     /*
       logo: {
-        alt: 'Facebook Open Source Logo',
-        src: 'img/oss_logo.png',
-        href: 'https://opensource.facebook.com',
+        alt: 'Centreon Open Source Logo',
+        src: 'https://docs.centreon.com/current/en/img/logo-centreon.png',
+        href: 'https://centreon.com',
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc. Built with Docusaurus.`,
+      */
+      copyright: `Copyright © ${new Date().getFullYear()} Centreon`,
     },
   },
 });

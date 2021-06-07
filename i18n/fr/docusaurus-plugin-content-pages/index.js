@@ -8,11 +8,12 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 
+import styles from './style.css';
 
 function Homepage() {
     return (
       <Layout>
-        <span>
+        <span className="section">
           Page d'acceuil Centreon documentation 21.10
         </span>
       </Layout>
