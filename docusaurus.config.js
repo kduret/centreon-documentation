@@ -138,9 +138,9 @@ const baseUrl = process.env.BASE_URL || '/';
     },
     */
     algolia: {
-      apiKey: 'f492427ccdce3bbda40f4b3900176ab2',
+      apiKey: '1d57563f3caf5524803d51c08b43a68b',
       //appId: '8W2CFBG50X',
-      indexName: 'dev_centreon_kduret',
+      indexName: 'kduret',
       contextualSearch: true,
     },
     navbar: {
